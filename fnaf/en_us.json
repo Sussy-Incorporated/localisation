@@ -52,6 +52,12 @@
 		"no": "NO",
 		"sure": "Are you sure?",
 		"quitgame": "Quit to Menu",
-		"click": "Click to view cameras"
+		"click": "Click to view cameras",
+		"verylow": "Very Low",
+		"low": "Low",
+		"medium": "Medium",
+		"high": "High",
+		"veryhigh": "Very High",
+		"ultra": "Ultra"
 	}
 }
