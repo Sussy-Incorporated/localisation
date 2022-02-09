@@ -62,5 +62,6 @@
 		"vdisabled": "Выключено, Макс. FPS",
 		"venabled60": "Включено, 60 FPS",
 		"venabled30": "Включено, 30 FPS",
+		"quality": "Качество"
 	}
 }
