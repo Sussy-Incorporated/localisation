@@ -58,6 +58,9 @@
 		"medium": "Medium",
 		"high": "High",
 		"veryhigh": "Very High",
-		"ultra": "Ultra"
+		"ultra": "Ultra",
+		"vdisabled": "Disabled, Max FPS",
+		"venabled60": "Enabled, 60 FPS",
+		"venabled30": "Enabled, 30 FPS",
 	}
 }
