@@ -62,6 +62,9 @@
 		"vdisabled": "Disabled, Max FPS",
 		"venabled60": "Enabled, 60 FPS",
 		"venabled30": "Enabled, 30 FPS",
-		"quality": "Quality"
+		"quality": "Quality",
+		"charge": "Battery Charge",
+		"drain": "Power Drain",
+		"usage": "Power Usage"
 	}
 }
