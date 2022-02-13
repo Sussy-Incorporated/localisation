@@ -63,8 +63,8 @@
 		"venabled60": "Enabled, 60 FPS",
 		"venabled30": "Enabled, 30 FPS",
 		"quality": "Quality",
-		"charge": "Battery Charge",
-		"drain": "Power Drain",
-		"usage": "Power Usage"
+		"charge": "Battery Charge:",
+		"drain": "Power Drain:",
+		"usage": "Power Usage:"
 	}
 }
